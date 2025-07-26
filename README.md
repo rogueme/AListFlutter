@@ -1,3 +1,9 @@
+# 本项目已停止更新，请您使用其他开源软件代替。
+- https://github.com/LeoHaoVIP/AListLiteAndroid
+- https://github.com/OpenListApp/OpenListApp
+
+---
+
 [![Release](https://github.com/jing332/AListFlutter/actions/workflows/release.yaml/badge.svg)](https://github.com/jing332/AListFlutter/actions/workflows/release.yaml)
 [![Test](https://github.com/jing332/AListFlutter/actions/workflows/build.yaml/badge.svg)](https://github.com/jing332/AListFlutter/actions/workflows/build.yaml)
 [![CheckAList](https://github.com/jing332/AListFlutter/actions/workflows/sync_alist.yaml/badge.svg)](https://github.com/jing332/AListFlutter/actions/workflows/sync_alist.yaml)
@@ -7,14 +13,14 @@
 
 # AListFlutter
 
-AListFlutter是一个基于AList的Android客户端，使用Google Flutter作为UI框架。
+AListFlutter是一个基于AList的Android服务端，使用Google Flutter作为UI框架。
 
-> [Github Action](https://github.com/jing332/AListFlutter/actions/workflows/sync_alist.yaml)
-> 每日早晚五点钟检查最新的 [AList发布](https://github.com/alist-org/alist/releases)
+> [Github Actions](https://github.com/jing332/AListFlutter/actions/workflows/sync_alist.yaml)
+> 每日早晚五点钟检查最新的 [AList](https://github.com/alist-org/alist/releases)
 > 并自动构建APK，发布到 [Release](https://github.com/jing332/AListFlutter/releases)
 > 中，您只需耐心等待片刻并在应用内检查更新即可。
 
-<img src="./images/1.jpg" height="150px">
+<img src="./images/alist.jpg" height="150px">
 
 ### Bug
 - Android4.4闪退 https://github.com/jing332/AListFlutter/issues/5
